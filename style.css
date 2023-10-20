@@ -1,0 +1,28 @@
+
+body{
+
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h4
+{
+	color: white !important;
+}
+
+.start
+{
+
+	width: 200px;
+	height: 60px;
+	background-color: brown;
+	color: antiquewhite;
+	font-size: 50px;
+}
